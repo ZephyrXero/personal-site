@@ -1,5 +1,5 @@
-#Derick's Personal Site
+# Derick's Personal Site
 
-[Under Construction]
+[*Under Construction*]
 
 This repo will house my new personal website
